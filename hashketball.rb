@@ -4,44 +4,54 @@ def game_hash = {
     :colors => ["Black", "White"]
     :player => {
       "Alan Anderson" => {
-       :number
-       :shoe
-       :points
-       :rebounds
-       :assists
-       :steals
-       :blocks
-       :slam_dunks
+       :number =>
+       :shoe =>
+       :points =>
+       :rebounds =>
+       :assists =>
+       :steals =>
+       :blocks =>
+       :slam_dunks =>
       },
       "Alan Anderson" => {
-       :number
-       :shoe
-       :points
-       :rebounds
-       :assists
-       :steals
-       :blocks
-       :slam_dunks
+       :number =>
+       :shoe =>
+       :points =>
+       :rebounds =>
+       :assists =>
+       :steals =>
+       :blocks =>
+       :slam_dunks =>
       }, 
       "Alan Anderson" => {
-       :number
-       :shoe
-       :points
-       :rebounds
-       :assists
-       :steals
-       :blocks
-       :slam_dunks
+       :number =>
+       :shoe =>
+       :points =>
+       :rebounds =>
+       :assists =>
+       :steals =>
+       :blocks =>
+       :slam_dunks =>
       },
       "Alan Anderson" => {
-       :number
-       :shoe
-       :points
-       :rebounds
-       :assists
-       :steals
-       :blocks
-       :slam_dunks
+       :number =>
+       :shoe =>
+       :points =>
+       :rebounds =>
+       :assists =>
+       :steals =>
+       :blocks =>
+       :slam_dunks =>
+      },
+      "Alan Anderson" => {
+       :number =>
+       :shoe =>
+       :points =>
+       :rebounds =>
+       :assists =>
+       :steals =>
+       :blocks =>
+       :slam_dunks => 
       }
     }
   }
@@ -58,6 +68,56 @@ def game_hash = {
        :steals
        :blocks
        :slam_dunks 
+      },
+      "Alan Anderson" => {
+       :number =>
+       :shoe =>
+       :points =>
+       :rebounds =>
+       :assists =>
+       :steals =>
+       :blocks =>
+       :slam_dunks => 
+      },
+      "Alan Anderson" => {
+       :number =>
+       :shoe =>
+       :points =>
+       :rebounds =>
+       :assists =>
+       :steals =>
+       :blocks =>
+       :slam_dunks => 
+      },
+      "Alan Anderson" => {
+       :number =>
+       :shoe =>
+       :points =>
+       :rebounds =>
+       :assists =>
+       :steals =>
+       :blocks =>
+       :slam_dunks => 
+      },
+      "Alan Anderson" => {
+       :number =>
+       :shoe =>
+       :points =>
+       :rebounds =>
+       :assists =>
+       :steals =>
+       :blocks =>
+       :slam_dunks => 
+      },
+      "Alan Anderson" => {
+       :number =>
+       :shoe =>
+       :points =>
+       :rebounds =>
+       :assists =>
+       :steals =>
+       :blocks =>
+       :slam_dunks => 
       }
     }
   }
