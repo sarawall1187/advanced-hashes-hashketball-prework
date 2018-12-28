@@ -1,10 +1,47 @@
 def game_hash = {
   :home => {
-    :team_name =>" "
-    :colors => []
+    :team_name =>"Brooklyn Nets "
+    :colors => ["Black", "White"]
     :player => {
-      "" => {
-        
+      "Alan Anderson" => {
+       :number
+       :shoe
+       :points
+       :rebounds
+       :assists
+       :steals
+       :blocks
+       :slam_dunks
+      },
+      "Alan Anderson" => {
+       :number
+       :shoe
+       :points
+       :rebounds
+       :assists
+       :steals
+       :blocks
+       :slam_dunks
+      }, 
+      "Alan Anderson" => {
+       :number
+       :shoe
+       :points
+       :rebounds
+       :assists
+       :steals
+       :blocks
+       :slam_dunks
+      },
+      "Alan Anderson" => {
+       :number
+       :shoe
+       :points
+       :rebounds
+       :assists
+       :steals
+       :blocks
+       :slam_dunks
       }
     }
   }
@@ -13,7 +50,14 @@ def game_hash = {
     :colors => []
     :player => {
       "" => {
-        
+       :number
+       :shoe
+       :points
+       :rebounds
+       :assists
+       :steals
+       :blocks
+       :slam_dunks 
       }
     }
   }
